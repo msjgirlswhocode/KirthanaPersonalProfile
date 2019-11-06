@@ -1,0 +1,31 @@
+h1 {
+  color: purple;
+}
+
+h2 {
+  color: pink;
+}
+  body {
+  font-family: courier;
+  background-color: white;
+  }
+
+.nav {
+  width:10%;
+  float: center;
+  flex-direction: row;
+  display: inline-block;
+  text-align: center;
+}
+
+.maincontainer {
+  background-color: white;
+  padding: 10px;
+  justify-content: center;
+}
+.textcontainer{
+
+}
+.imagecontainer{
+
+}
